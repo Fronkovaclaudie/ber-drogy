@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+    color: azure;
+}
+
+main{
+  padding-left: 40px;
+}
+
+ul{
+    display: inline-block;
+  }
+  
+  ul a {
+    display: block;
+    color: rgb(255, 251, 251);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+    
+  ul a:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+  }
+  
+  nav{
+    display: flex;
+    justify-content: center;
+  }
+
+  h1{display: flex;
+  justify-content: center;
+}
+
+
+  .bgpic{
+    background-image: url("./jarvis_5e5d4cf3498e75f6a28cc125.jpg");
+    height: 370px;
+  }
+
+  p{
+    padding-bottom: 40px;
+    padding-right: 60px;
+  }
+
+    a{
+      display: flex;
+      justify-content: center;
+      text-decoration: none;
+      color: rgb(255, 251, 251);
+    }
+
+    a:hover {
+      background-color: rgb(255, 255, 255);
+      color: rgb(0, 0, 0);
+    }
