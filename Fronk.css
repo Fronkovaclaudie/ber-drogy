@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+    color: azure;
+}
+
+ul{
+    display: inline-block;
+  }
+  
+  ul a {
+    display: block;
+    color: rgb(255, 251, 251);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+    
+  ul a:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+  }
+
+  .nav{
+    display: flex;
+    justify-content: center;
+  }
+
+  .nadpisDrogy{
+    display: flex;
+    justify-content: center;
+    color: beige;
+
+  }
+
+  .bgpic{
+    background-image: url("https://cdn.xsd.cz/resize/f3f648b0830a36f8be3ca3063cd20123_resize=680,383_.jpg?hash=0403b5f879010f4ad8dc6e96515f759c");
+    height: 370px;
+  }
+
+  h3{padding-left: 50px;}
+
+  p{
+    padding-bottom: 40px;
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+
+  h2{
+    display: flex;
+    justify-content: center;
+  }
+
+  .obrazky{
+    padding-left: 100px;
+  }
+
+  .obrazek2{
+    height: 500px;
+  }
+
+   .obrazek3{
+    height: 500px;
+   }
